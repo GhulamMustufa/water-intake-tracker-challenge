@@ -1,0 +1,11 @@
+{
+  "name": "water-intake-tracker-challenge",
+  "version": "1.0.0",
+  "description": "Welcome! This is your take-home assignment to help us assess your fullstack development skills in a real-world feature scenario.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
